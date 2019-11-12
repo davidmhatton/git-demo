@@ -1,7 +1,7 @@
 package org.dhatton.gitdemo.models;
 
 /**
- * @author David Hatton
+ * @author David Hatton.
  */
 public abstract class Ship {
 	private Double accelerationRate;
