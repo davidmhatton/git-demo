@@ -9,7 +9,9 @@ public class CargoShip extends Ship implements Navigable {
 
 	@Override
 	public void steerRight(Double amount) {
-		// TODO: 2019-10-11 14:34 fill this in using a feature branch
+		
+		//This is not what David has
+	
 	}
 
 	@Override
